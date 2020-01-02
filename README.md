@@ -21,3 +21,8 @@ HTTP 요청 메시지는 다음 그림과 같이 요청 행, 요청 헤더, 메�
 다음은 HTTP 요청 메시지의 한 부분인 요청 행의 구체적인 예입니다.
 + GET http://www.gitbut.co.kr HTTP/1.1
 
+이 문자열은 다음과 같은 세가지 정보를 가지고 있습니다
+GET:요청 메서드
+http://www.gilbut.co.kr : URL
+HTTP/1.1 : HTTP의 버전
+
