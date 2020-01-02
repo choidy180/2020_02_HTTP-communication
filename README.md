@@ -1,4 +1,4 @@
-# HTTP-communication
+# HTTP 통신
 
 1.1 HTTP
 
